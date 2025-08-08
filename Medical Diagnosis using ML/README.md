@@ -83,9 +83,9 @@ python "xgboost tuned model with evalution explainability.py"
 ```
 
 📈 Outputs
-📌 Confusion Matrix (see report/figures/Confusion Matrix.png)
+📌 Confusion Matrix (see ```report/figures/Confusion Matrix.png```)
 
-📌 SHAP Summary Plot (see report/figures/SHAP Summary Plot.png)
+📌 SHAP Summary Plot (see ```report/figures/SHAP Summary Plot.png```)
 
 🧪 Dependencies
 See requirements.txt for full list.
